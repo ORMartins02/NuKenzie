@@ -1,0 +1,16 @@
+#listTitle {
+    width: 98%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+#buttonList {
+    color: #343A40;
+    font-size: 16px;
+    background: #E9ECEF;
+    border: 1.4px solid #E9ECEF;
+    border-radius: 8px;
+    margin-left: 12px;
+}

@@ -1,0 +1,34 @@
+#divTotalMoney {
+    width: 100%;
+    height: 96px;
+    margin-top: 15px;
+    border: 1px solid #E9ECEF;
+    border-radius: 8px;
+}
+
+#totalValue {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+#titleValue {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+#spanValue {
+    color: #FD377E;
+    font-weight: 700;
+}
+
+#textValue {
+    color: #343A40;
+    font-size: 12px;
+    margin-top: -5px;
+    margin-left: 20px;
+    text-align: left;
+}

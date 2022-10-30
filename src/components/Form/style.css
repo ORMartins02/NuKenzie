@@ -1,0 +1,86 @@
+#form {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    Width: 100%;
+    Height: 351px;
+    border: 1px solid #E9ECEF;
+    border-radius: 8px;
+}
+
+.inputForm {
+    height: 52px;
+    border: 2px solid #F8F9FA;
+    background-color: #F8F9FA;
+    border-radius: 8px;
+}
+
+#labelFormDesc {
+    width: 87%;
+    margin-top: 30px;
+    text-align: left;
+}
+
+#divFormValue {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#divFormSelect {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+}
+
+#inputFormDesc {
+    width: 87%;
+    font-size: 16px;
+    color: #868E96;
+}
+
+#inputFormValue {
+    width: 150px;
+    font-size: 16px;
+    color: #868E96;
+}
+
+.divMidle {
+    margin-top: 10px;
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 16px;
+}
+
+#labelFormSelect {
+    margin-left: 15px;
+}
+
+#labelFormValue {
+    margin-left: 5px;
+}
+
+#selectInput {
+    width: 150px;
+    margin-left: 15px;
+    font-size: 16px;
+    color: #868E96;
+}
+
+.inputFormMidle {
+    width: 50%;
+}
+
+#buttonForm {
+    margin-top: -1px;
+    width: 90%;
+    background-color: #FD377E;
+    color: white;
+    font-size: 16px;
+}

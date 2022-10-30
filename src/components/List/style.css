@@ -1,0 +1,52 @@
+#sectionHeader {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h3 {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+#buttonSectionTodos {
+    height: 40px;
+    background-color: #FD377E;
+    color: white;
+    font-size: 16px;
+    border: 1.4px solid #FD377E;
+    border-radius: 8px;
+}
+
+#buttonSectionEntradas {
+    margin-left: 16px;
+    height: 40px;
+    color: #343A40;
+    font-size: 16px;
+    background: #E9ECEF;
+    border: 1.4px solid #E9ECEF;
+    border-radius: 8px;
+}
+
+#buttonSectionDespesas {
+    margin-left: 16px;
+    height: 40px;
+    color: #343A40;
+    font-size: 16px;
+    background: #E9ECEF;
+    border: 1.4px solid #E9ECEF;
+    border-radius: 8px;
+}
+
+#listCard {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    margin-left: -40px;
+}
+
+#spanType {
+    width: 100%;
+    text-align: left;
+}
